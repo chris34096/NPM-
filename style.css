@@ -4,7 +4,7 @@ nav {
     background-color: #C12127;
     color: rgba(255,255,255,0.8);
     padding-top: 15px;
-    height: 60px;
+    height: 100px;
 }
 
 nav a {
@@ -83,7 +83,7 @@ header {
     background-image: url(https://static.npmjs.com/images/npm-is-BOXES.svg);
     background-size: cover;
     background-color: rgb(39, 53, 71);
-    margin: 0 auto;
+    margin: -80 auto;
 }
 
 #npm aside {
